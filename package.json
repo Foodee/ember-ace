@@ -53,7 +53,7 @@
     "ace-builds": "^1.4.1",
     "broccoli-merge-trees": "^2.0.0",
     "broccoli-plugin": "^1.2.1",
-    "ember-cli-babel": "^6.6.0",
+    "ember-cli-babel": "^7.26.10",
     "ember-cli-htmlbars": "^2.0.2",
     "ember-cli-node-assets": "^0.2.2"
   },
